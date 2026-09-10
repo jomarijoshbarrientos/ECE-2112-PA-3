@@ -1,7 +1,7 @@
 # ECE-2112-PA-3
 **Made by: Jomari Josh V. Barrientos | 2ECE-C**
 
-The content of this repository contains the Programming Assignment 1 for the course ECE2112 or Advanced Computer Programming and Algorithms, this 1st semester of the A.Y. 2026 - 2027. This covers the 3 coding problems under Module 3 - Pandas
+The content of this repository contains the Programming Assignment 3 for the course ECE2112 or Advanced Computer Programming and Algorithms, this 1st semester of the A.Y. 2026 - 2027. This covers the 3 coding problems under Module 3 - Pandas
 
 The following objectives of this assignment are to:
 
